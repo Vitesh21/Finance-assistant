@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+.env
+.env.local
+backend/finance_assistant.db
+frontend/.next/
+frontend/node_modules/
+backend/.ruff_cache/
+backend/.venv/
